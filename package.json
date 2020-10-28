@@ -1,0 +1,13 @@
+{
+  "name": "Mongodb_Tutorial",
+  "version": "1.0.0",
+  "description": "A simple web built using mongodb as the backend service",
+  "main": "index.js",
+  "repository": "https://github.com/Alabs02/mongodb_tutorial.git",
+  "author": "Alabura Usman <alabson.inc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11"
+  }
+}
